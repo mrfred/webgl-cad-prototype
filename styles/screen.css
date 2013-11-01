@@ -1,0 +1,22 @@
+html, body {
+    /*background: #CBCBCB;*/
+    background: linear-gradient(#FFFFFF, #F5F5F5);
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.center
+{
+  width: 800px;
+     height:600px;
+     margin: 0px auto;
+}
+
+canvas 
+{
+  background: #FFF;
+  border:2px solid;
+  /*border-radius:25px;*/
+
+}
